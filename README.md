@@ -11,8 +11,7 @@
 3. **Use Security Apps**: Some apps can verify URLs.
 
 ## Learn More
-- [QR Code Risks](https://www.security.org/digital-safety/qr-code-scams/)
-- [Safe Practices](https://www.cyber.gov.au/acsc/view-all-content/publications/qr-codes)
+- [Tips for Using QR Codes Safely](https://us.norton.com/internetsecurity-how-to-how-qr-codes-work.html)
 
 ## Contribute
 1. **Fork** this repo.
