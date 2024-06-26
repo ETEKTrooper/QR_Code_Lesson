@@ -11,7 +11,8 @@
 3. **Use Security Apps**: Some apps can verify URLs.
 
 ## Learn More
-- [Tips for Using QR Codes Safely](https://us.norton.com/internetsecurity-how-to-how-qr-codes-work.html)
+- [QR Code Risks and Guidelines](https://www.nngroup.com/articles/qr-code-guidelines/)
+- [4 Safety Tips for Using QR Codes](https://www.tcdrs.org/library/4-safety-tips-for-using-QR-codes)
 
 ## Contribute
 1. **Fork** this repo.
